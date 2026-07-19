@@ -1,5 +1,4 @@
+streamlit
 requests
-streamlit 
-dotenv 
-google.generativeai 
-os
+python-dotenv
+google-generativeai
